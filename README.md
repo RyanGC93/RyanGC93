@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="hello!" width="7%" />, I'm Ryan Conk!</h1>
 <h3 align="center">Full-Stack Engineer | Creative Problem Solver | Growth-Minded Technologist</h3>
 <p align="center">I specialize in TypeScript, GraphQL, and test-driven development, with a strong track record of enhancing code reliability and optimizing user data pipelines. <br> With experience ranging from frontend UI development to backend API architecture, I'm passionate about clean code, scalability, and impactful collaboration. <br> My background in training, communication, and agile environments enables me to bridge technical work with business needs.</p>
-<p align="center">INTJ | Systems Thinker | Strengths: Focus, Learning, Adaptability, Strategic, Achiever. <br> Colorado Native, Yoga Enthusiast, Curious Explorer, Dark Humor Fan, Aspiring Polyglot.</p>
+<p align="center">INTJ | Systems Thinker | Strengths: Focus, Learning, Adaptability, Strategic, Achiever. <br> Colorado Native, Yoga Enthusiast, Curious Explorer, Aspiring Polyglot.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-conk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="18%" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/ryan-conk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ryan Conk LinkedIn" width="7%" /></a> </p>
